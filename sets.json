@@ -1,37 +1,37 @@
 {
     "sets": [
         {
-            "title": "client",
+            "title": "crosshair",
             "updated": "2018-02-08",
-            "prefix": "",
+            "prefix": "cl_",
             "commands": [
                 {
-                    "cmd": "cl_maxfps",
-                    "exp": "Set maximum FPS"
+                    "cmd": "crosshaircolor",
+                    "exp": "change crosshair color"
                 },
                 {
-                    "cmd": "AspectRatio",
-                    "exp": "Adjust aspect ratio"
+                    "cmd": "crosshairdot",
+                    "exp": "enable/disable crosshair dot"
                 },
                 {
-                    "cmd": "BAROffset",
-                    "exp": "BAR specific weapon offset"
+                    "cmd": "crosshairgap",
+                    "exp": "change crosshair gap size"
                 },
                 {
-                    "cmd": "Brightness",
-                    "exp": "Adjust brightness"
+                    "cmd": "crosshairsize",
+                    "exp": "change crosshair size"
                 },
                 {
-                    "cmd": "ColourBlindMode",
-                    "exp": "Adjust the colour blind mode"
+                    "cmd": "crosshairstyle",
+                    "exp": "style: class, dynamic..."
                 },
                 {
-                    "cmd": "CardPickupScale",
-                    "exp": "Size of the dropped cards"
+                    "cmd": "crosshairthickness",
+                    "exp": "change crosshair thickness"
                 },
                 {
-                    "cmd": "DecorativeTrees",
-                    "exp": "Description needed"
+                    "cmd": "crosshair_drawoutline",
+                    "exp": "enable/disable crosshair outline"
                 },
                 {
                     "cmd": "Dof",
