@@ -7,7 +7,10 @@
             "commands": [
                 {
                     "cmd": "crosshaircolor",
-                    "exp": "change crosshair color"
+                    "exp": "change crosshair color",
+                    "egs": [
+                        "cl_crosshaircolor "1""
+                    ]
                 },
                 {
                     "cmd": "crosshairdot",
