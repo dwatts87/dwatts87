@@ -3,11 +3,11 @@
         {
             "title": "client",
             "updated": "2018-02-08",
-            "prefix": "Settings",
+            "prefix": "",
             "commands": [
                 {
-                    "cmd": "AspectRatio",
-                    "exp": "Adjust aspect ratio"
+                    "cmd": "cl_maxfps",
+                    "exp": "Set maximum FPS"
                 },
                 {
                     "cmd": "AspectRatio",
