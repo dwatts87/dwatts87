@@ -9,7 +9,7 @@
                     "cmd": "crosshaircolor",
                     "exp": "change crosshair color",
                     "egs": [
-                        "cl_crosshaircolor "1""
+                        "cl_crosshaircolor 1"
                     ]
                 },
                 {
